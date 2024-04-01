@@ -16,7 +16,7 @@ jobs:
       PROJECT_ID: mlops-squad
       REPOSITORY: mlflow-repo
       SERVICE_ACCOUNT: mlflow-service-account
-      SERVICE_NAME: mlflow_service
+      SERVICE_NAME: mlflow-service
 
     steps:
     - name: Checkout
