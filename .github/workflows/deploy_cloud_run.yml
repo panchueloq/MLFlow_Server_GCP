@@ -52,4 +52,4 @@ jobs:
           --update-secrets=STORAGE_URL=bucket_url:latest \
           --memory 2Gi \
           --allow-unauthenticated \
-          --port 3131
+          --port 8080
